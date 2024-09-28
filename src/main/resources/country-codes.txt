@@ -210,7 +210,7 @@ South Sudan	SS	SSD	728
 Spain	ES	ESP	724
 Sri Lanka	LK	LKA	144
 Sudan (the)	SD	SDN	729
-Suriname	SR	SUR	740
+Suriname	SR  SUR 740
 Svalbard and Jan Mayen	SJ	SJM	744
 Sweden	SE	SWE	752
 Switzerland	CH	CHE	756
